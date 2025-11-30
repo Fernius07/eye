@@ -2,7 +2,7 @@
 
 Un juego clásico de batalla naval desarrollado en Java con interfaz gráfica Swing.  Juego para dos jugadores en el mismo dispositivo, con disparos especiales y sistema de estadísticas.
 
-![Java](https://img. shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
