@@ -300,7 +300,7 @@ Proyecto-Battleship-git/
 
 Desarrollado como proyecto académico. 
 
-**Repositorio**: [https://github.com/Puerco55/Proyecto-Battleship-git](https://github. com/Puerco55/Proyecto-Battleship-git)
+**Repositorio**: [https://github.com/Puerco55/Proyecto-Battleship-git](https://github.com/Puerco55/Proyecto-Battleship-git)
 
 ---
 
